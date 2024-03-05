@@ -8,8 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moncici007/date-util.git"
+    "url": "https://github.com/moncici007/date-util"
   },
+  "website": "https://github.com/moncici007/date-util.git",
   "keywords": [
     "date",
     "util",
