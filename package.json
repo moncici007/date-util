@@ -1,6 +1,6 @@
 {
   "name": "@moncici/date-time-processor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "date util",
   "main": "index.js",
   "scripts": {
